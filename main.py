@@ -10,7 +10,7 @@ while True:
     print("2. Panjang")
     print("3. Waktu")
     pilihan = input("Pilih jenis konversi (1/2/3): ")
-    
+
     # Proses Konversi Suhu
     if pilihan == '1':
         print("Konversi Suhu:")
@@ -93,3 +93,6 @@ for i in range(size):
     print(" " * (size - i - 1) + "*" * (2 * i + 1))
 for i in range(size - 1, -1, -1):
     print(" " * (size - i - 1) + "*" * (2 * i + 1))
+
+    #Link Repository Github: https://github.com/Denngrh/UTS-algoritma
+    #Link Video Youtube: https://youtu.be/VZnkbEH9g9A?si=IBBaQuYICDg7U2SF
